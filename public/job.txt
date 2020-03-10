@@ -1,0 +1,189 @@
+Illuminate\Database\Eloquent\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => App\UserBasket Object
+                (
+                    [table:protected] => tb_user_basket
+                    [guarded:protected] => Array
+                        (
+                            [0] => id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 25
+                            [user_id] => 2
+                            [competition_id] => 4
+                            [ticket_id] => 2725
+                            [immeditaly_type] => 0
+                            [create_date] => 2020-02-23 18:24:06
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 25
+                            [user_id] => 2
+                            [competition_id] => 4
+                            [ticket_id] => 2725
+                            [immeditaly_type] => 0
+                            [create_date] => 2020-02-23 18:24:06
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                )
+
+            [1] => App\UserBasket Object
+                (
+                    [table:protected] => tb_user_basket
+                    [guarded:protected] => Array
+                        (
+                            [0] => id
+                        )
+
+                    [timestamps] => 
+                    [connection:protected] => mysql
+                    [primaryKey:protected] => id
+                    [keyType:protected] => int
+                    [incrementing] => 1
+                    [with:protected] => Array
+                        (
+                        )
+
+                    [withCount:protected] => Array
+                        (
+                        )
+
+                    [perPage:protected] => 15
+                    [exists] => 1
+                    [wasRecentlyCreated] => 
+                    [attributes:protected] => Array
+                        (
+                            [id] => 26
+                            [user_id] => 2
+                            [competition_id] => 4
+                            [ticket_id] => 2726
+                            [immeditaly_type] => 0
+                            [create_date] => 2020-02-23 18:24:06
+                        )
+
+                    [original:protected] => Array
+                        (
+                            [id] => 26
+                            [user_id] => 2
+                            [competition_id] => 4
+                            [ticket_id] => 2726
+                            [immeditaly_type] => 0
+                            [create_date] => 2020-02-23 18:24:06
+                        )
+
+                    [changes:protected] => Array
+                        (
+                        )
+
+                    [casts:protected] => Array
+                        (
+                        )
+
+                    [dates:protected] => Array
+                        (
+                        )
+
+                    [dateFormat:protected] => 
+                    [appends:protected] => Array
+                        (
+                        )
+
+                    [dispatchesEvents:protected] => Array
+                        (
+                        )
+
+                    [observables:protected] => Array
+                        (
+                        )
+
+                    [relations:protected] => Array
+                        (
+                        )
+
+                    [touches:protected] => Array
+                        (
+                        )
+
+                    [hidden:protected] => Array
+                        (
+                        )
+
+                    [visible:protected] => Array
+                        (
+                        )
+
+                    [fillable:protected] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)

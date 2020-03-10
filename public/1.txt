@@ -1,0 +1,94 @@
+App\PromoCode Object
+(
+    [table:protected] => tb_promo_code
+    [guarded:protected] => Array
+        (
+            [0] => id
+        )
+
+    [timestamps] => 
+    [connection:protected] => mysql
+    [primaryKey:protected] => id
+    [keyType:protected] => int
+    [incrementing] => 1
+    [with:protected] => Array
+        (
+        )
+
+    [withCount:protected] => Array
+        (
+        )
+
+    [perPage:protected] => 15
+    [exists] => 1
+    [wasRecentlyCreated] => 
+    [attributes:protected] => Array
+        (
+            [id] => 2
+            [promo_code] => 111
+            [amount_worth] => 20
+            [available_times] => 10
+            [times_per_user] => 2
+            [expire_date] => 2020-03-04
+            [used_times] => 0
+            [code_type] => 0
+        )
+
+    [original:protected] => Array
+        (
+            [id] => 2
+            [promo_code] => 111
+            [amount_worth] => 20
+            [available_times] => 10
+            [times_per_user] => 2
+            [expire_date] => 2020-03-04
+            [used_times] => 0
+            [code_type] => 0
+        )
+
+    [changes:protected] => Array
+        (
+        )
+
+    [casts:protected] => Array
+        (
+        )
+
+    [dates:protected] => Array
+        (
+        )
+
+    [dateFormat:protected] => 
+    [appends:protected] => Array
+        (
+        )
+
+    [dispatchesEvents:protected] => Array
+        (
+        )
+
+    [observables:protected] => Array
+        (
+        )
+
+    [relations:protected] => Array
+        (
+        )
+
+    [touches:protected] => Array
+        (
+        )
+
+    [hidden:protected] => Array
+        (
+        )
+
+    [visible:protected] => Array
+        (
+        )
+
+    [fillable:protected] => Array
+        (
+        )
+
+)
